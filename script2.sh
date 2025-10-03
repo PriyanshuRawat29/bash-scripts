@@ -1,1 +1,1 @@
-# My second script
+echo New content
